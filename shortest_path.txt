@@ -1,0 +1,1 @@
+ (252 : Jenin) <--  (203 : Haifa) <--  (146 : Tulkarem) <--  (93 : Salfit) <--  (55 : Ramallah) <--  (34 : Jerusalem) <--  (100000000 : Hebron) <--  (0 : Hebron) <-- 
