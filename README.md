@@ -21,7 +21,7 @@ Dijkstra's algorithm is a widely used algorithm for finding the shortest path be
 
 ## Input_Format
 
-**Akka Haifa 35km
+**Akka Haifa 35km  
 **Akka Nazareth 33km
 **Akka Jenin 74km
 Bethlehem Hebron 45km
