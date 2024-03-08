@@ -8,7 +8,7 @@ This project implements Dijkstra's algorithm in the C programming language to fi
 - [Features](#features)
 - [Input Format](#input-format)
 - [Output Format](#output-format)
-- [Example](#example)
+- [Testing](#testing)
 
 ## Introduction
 
@@ -19,19 +19,24 @@ Dijkstra's algorithm is a widely used algorithm for finding the shortest path be
 - **Dijkstra's Algorithm:** Utilizes Dijkstra's algorithm to find the shortest path between two cities.
 - **City Graph:** Represents the connections between cities as a graph, with distances as edge weights.
 
-## Input_Format
+## Input Format
 
-**Akka Haifa 35km  
-**Akka Nazareth 33km
-**Akka Jenin 74km
-Bethlehem Hebron 45km
-Bethlehem Jerusalem 9km
-.
-.
-.
+Akka Haifa 35km  
+Akka Nazareth 33km  
+Akka Jenin 74km  
+Bethlehem Hebron 45km  
+Bethlehem Jerusalem 9km  
+.  
+.  
+.  
 
-## Output_Format
+## Output Format
 
  (252 : Jenin) <--  (203 : Haifa) <--  (146 : Tulkarem) <--  (93 : Salfit) <--  (55 : Ramallah) <--  (34 : Jerusalem) <--  (0 : Hebron) <-- 
+
+ ## Testing
+
+ ![image](https://github.com/MusabMasalmah/Dijkstra_Project/assets/129512609/aca1c2b7-108f-4e7c-9fd2-0bc9b2c6f7ce)
+
 
  
